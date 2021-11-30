@@ -42,7 +42,8 @@ Making an Inverted Pendulum using LEGO Mindstorms EV3 🤖 - [Blog Post](https:/
 
 <https://www.linkedin.com/in/advitdeepak/>
 
-Website: Coming Soon! 
+Linktree: <https://linktr.ee/advitdeepak> 
+Website: <https://advitdeepak.github.io/about-advit/>
 
 &nbsp;
 
