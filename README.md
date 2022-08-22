@@ -2,7 +2,7 @@
 
 ## About Me 😄
 
-Hi, I'm Advit! I'm a Computer Science and Engineering student at UCLA 🐻 (class of 2025). 
+Hi, I'm Advit! I'm a Computer Science student at UCLA 🐻 (class of 2025). 
 
 Be it using Computer Vision to create touchless human interface devices (HIDs) or creating a Reinforcement-Learning traffic controller 
 with the Simulation for Urban Mobility (SUMO), I'm interested in all sorts of new technologies and their applications 😊. 
@@ -27,7 +27,9 @@ singAlong (any song, any time) 🎤 - [Demo Video](https://youtu.be/2gfME-rsNc4)
 
 singAlong-TG: TigerGraph 🐯 Acceleration - [Demo Video](https://youtu.be/K9zHRc9GmeU)
 
+Messages Wrapped (summarization dashboard) 📱 - [Demo Video](https://www.youtube.com/watch?v=lf0nFmbdNgo)
 
+Sussy Symptoms (automated survey completion) 💉 - [Demo Video](https://www.youtube.com/watch?v=lf0nFmbdNgo)
 
 Making a Fully Automatic, Gravity-Powered Door Closer 📐 - [Blog Post](https://advit-deepak.medium.com/making-a-fully-automatic-gravity-powered-door-closer-a28445c3e763)
 
