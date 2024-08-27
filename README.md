@@ -2,22 +2,17 @@
 
 ## About Me 😄
 
-Hi, I'm Advit! I'm a Computer Science student at UCLA 🐻 (class of 2025). 
+Hi, I'm Advit! I'm a MS Computer Science student at Stanford (class of 2026) .
 
-Be it using Computer Vision to create touchless human interface devices (HIDs) or creating a Reinforcement-Learning traffic controller 
-with the Simulation for Urban Mobility (SUMO), I'm interested in all sorts of new technologies and their applications 😊. 
-
-From flying suits to interactable holograms — we have so many applications requiring computational innovations yet to be engineered. 
-Making these kinds of technological leaps and working towards this Sci-Fi future are the reasons why I pursue CS. 
-
-*It’s the most realistic form of magic I know.*
-
+With a bachelor's from UCLA and a master's from Stanford, I strive to make learning and building with computer science accessible to everyone. To me, _it's the closest thing to real magic_ ✨.
 
 &nbsp;
 
 ## Brief Snapshot 👨‍💻
 
 Here's some of what I've been up to! 
+
+> Whoops: this list was last updated in 2022 😅. Much-needed updates coming soon! 😊
 
 &nbsp;
 
@@ -40,7 +35,7 @@ Making an Inverted Pendulum using LEGO Mindstorms EV3 🤖 - [Blog Post](https:/
 
 ## Contact Info 📞
 
-<advitdeepak@gmail.com> 
+<advit@stanford.edu> 
 
 <https://www.linkedin.com/in/advitdeepak/>
 
